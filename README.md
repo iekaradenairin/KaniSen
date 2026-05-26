@@ -3,7 +3,7 @@
 Windows のデスクトップに「かにせん」が降ってくる、放置系アクセサリ。
 作業中のウィンドウの上に積もり、クリックすると「さくっ」と食べられます。
 
-<img width="1434" height="891" alt="Kanisen_Image" src="https://github.com/user-attachments/assets/09a8f35a-0181-4a62-ac68-d141c39dd5af" />
+https://github.com/user-attachments/assets/feea8a1f-8fab-4409-8734-6dcc7dffa9c4
 
 ## ダウンロード
 
